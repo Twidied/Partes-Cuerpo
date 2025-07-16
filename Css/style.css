@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/833/059/non_2x/light-blue-blurred-background-abstract-colorful-illustration-with-gradient-elegant-background-for-websites-vector.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.cabeza{
+    background-color: #93a2aa;
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 250px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.cabeza {
+    border: 1px solid black;
+    width: 300px;
+    height: 100px;
+    padding: 50px;
+    cursor: pointer;
+}
+.torso {
+    background-color: #93a2aa;
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 250px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.brazo-izquierdo {
+    background-color: #93a2aa;
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 250px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.brazo-derecho {
+    background-color: #93a2aa;
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 250px;
+    border-radius: 20px;
+    cursor: pointer;
+}
